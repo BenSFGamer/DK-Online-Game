@@ -9,9 +9,12 @@ In brief, using the same function of level generation, the AI and algorithms wou
 Instead of starting from scratch and reinventing the wheel, we could use DKC 2 or 3 as a basis or template for the project. DKC 4 has all the elements from the trilogy as well as new stages and elements excluive to the title, whenever it the game is finished in the near future we could implement it.
 
 Short briefing
+
 -AI-Generated levels
 -Random level generation
 -Procedual level generation 
+
+Start with a random seed level. This could be a pre-existing levele. Use an algorithm to generate the level's terrain, obstacles, enemies, and power-ups.
 
 http://pcg.wikidot.com/pcg-algorithm:infinite-games
 https://techcrunch.com/2023/02/14/mariogpt-hints-at-a-glorious-ai-generated-future-where-we-will-all-play-nintendo-forever/
